@@ -78,6 +78,8 @@ plt.plot(freq,abs(fft_x))
 
 plt.xlim(0.01, 0.2)
 
+plt.savefig("grafica.png")
+
 
 
 
